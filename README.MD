@@ -5,6 +5,7 @@ Este é um branch apenas explicativo, para ver o projeto, escolha um branch dese
 Cada branch usará uma linguagem/ou framework, e assim serão separados as camadas de todo o projeto.
 
 - Cada parte do projeto acontecerá a escrita da seguinte forma:
+
 Escrita da API RESTfull - ( em laravel ) disponibilizado em : bank.ricm.dev ( somente para requisições com cabeçalho json )
 
 Escrita aplicação desktop ( em python/Consumo da api RESTFull )
